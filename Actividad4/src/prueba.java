@@ -3,7 +3,7 @@ public class prueba {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Hola CLASE.");
+		System.out.println("Hola a todos.");
 		}
 }
 
